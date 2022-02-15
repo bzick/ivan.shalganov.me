@@ -7,7 +7,7 @@
 
 - Год рождения: 1985 (36 лет).
 - Расположение: Россия, Санкт-Петербург. К переездам не готов.
-- Контакты: a.cobest@gmail.com, [telegram](https://t.me/bezumen), ivan@shalganov.me
+- Контакты: a.cobest@gmail.com, [telegram](https://t.me/bezumen)
 
 ## Образование
  
