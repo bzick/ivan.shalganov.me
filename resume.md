@@ -79,7 +79,7 @@
 Активный участник [Github](https://github.com/bzick) (сейчас слабая активность из-за нехватки времени):
  
 - [Fenom](https://github.com/fenom-template/fenom) (PHP) шаблонизатор на PHP (приемник Smarty)
-- [Koda](https://github.com/bzick/koda) (PHP) рефлексия кода и адаптивный
+- [Koda](https://github.com/bzick/koda) (PHP) рефлексия кода для правильной подстановки аргументов при вызове коллбеков.
 - [Aspect](https://unifire-app.github.io/aspect/) (Lua) порт шаблонизатора Twig на Lua.
 - [Nginx Red](https://github.com/bzick/nginx-red) (OpenResty) порт Tuckey urlrewrite в Nginx.
 - [Tokenizer](https://github.com/bzick/tokenizer) (Golang) токенайзер для бесконечного потока данных.
