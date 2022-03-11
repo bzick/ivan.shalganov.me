@@ -81,7 +81,7 @@
 - [Fenom](https://github.com/fenom-template/fenom) (PHP) шаблонизатор на PHP (приемник Smarty)
 - [Koda](https://github.com/bzick/koda) (PHP) рефлексия кода для правильной подстановки аргументов при вызове коллбеков.
 - [Aspect](https://unifire-app.github.io/aspect/) (Lua) порт шаблонизатора Twig на Lua.
-- [Nginx Red](https://github.com/bzick/nginx-red) (OpenResty) порт Tuckey urlrewrite в Nginx.
+- [Nginx Red](https://github.com/bzick/nginx-red) (Lua, стек OpenResty) порт Tuckey urlrewrite в Nginx.
 - [Tokenizer](https://github.com/bzick/tokenizer) (Golang) токенайзер для бесконечного потока данных.
 - [PHP-ION](https://github.com/php-ion/php-ion) (C) расширение для PHP реализующее асинхронный функционал в стиле nodejs
 - [PHP-SASS](https://github.com/bzick/php-sass) (C) libsass расширение для PHP
