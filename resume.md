@@ -1,5 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/bzick/ivan.shalganov.me/master/me.jpeg" width="200">
- 
+
 Шалганов Иван Андреевич
 ====
 
