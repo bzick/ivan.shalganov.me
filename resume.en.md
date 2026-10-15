@@ -2,7 +2,7 @@
 
 **Technical Lead · Platform & Systems Architect · SRE / Cloud Platforms · AI Agents**
 
-Amsterdam, Netherlands · a.cobest@gmail.com · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick) · Русская версия: [resume.md](resume.md)
+Amsterdam, Netherlands · a.cobest@gmail.com · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick) · Русская версия: [resume.ru.md](resume.md)
 
 ## Summary
 
