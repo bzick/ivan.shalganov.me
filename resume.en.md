@@ -84,7 +84,7 @@ Full-stack development of an internal CRM/ERP system (Internet LLC); freelance w
 - **AI:** AI agents, agent harnesses, LLM evals, exo, vLLM
 ## Open source
 
-Author of open source projects with own GitHub organizations ([fenom-template](https://github.com/fenom-template), [php-ion](https://github.com/php-ion), [unifire-app](https://github.com/unifire-app)):
+Author of open source projects with own GitHub organizations ([fenom-template](https://github.com/fenom-template), [php-ion](https://github.com/php-ion)):
 
 - [Tokenizer](https://github.com/bzick/tokenizer) — Go tokenizer for unbounded data streams.
 - [PHP-ION](https://github.com/php-ion/php-ion) — asynchronous, Node.js-style runtime extension for PHP, written in C.
