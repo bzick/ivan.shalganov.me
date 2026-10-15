@@ -84,7 +84,7 @@ Full-stack разработка внутренней CRM/ERP системы (О�
 - **AI:** AI-агенты, harness для агентов, LLM evals, exo, vLLM
 ## Open source
 
-Автор open source проектов, владелец GitHub-организаций [fenom-template](https://github.com/fenom-template), [php-ion](https://github.com/php-ion), [unifire-app](https://github.com/unifire-app):
+Автор open source проектов, владелец GitHub-организаций [fenom-template](https://github.com/fenom-template), [php-ion](https://github.com/php-ion):
 
 - [Tokenizer](https://github.com/bzick/tokenizer) — токенайзер на Go для бесконечных потоков данных.
 - [PHP-ION](https://github.com/php-ion/php-ion) — расширение на C, добавляющее в PHP асинхронность в стиле Node.js.
