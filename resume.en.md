@@ -2,7 +2,7 @@
 
 **Technical Lead · Platform & Systems Architect · SRE / Cloud Platforms · AI Agents**
 
-Amsterdam, Netherlands · a.cobest@gmail.com · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick) · Русская версия: [resume.ru.md](resume.md)
+Amsterdam, Netherlands · a.cobest@gmail.com · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick) · Русская версия: [resume.md](resume.md)
 
 ## Summary
 
@@ -33,8 +33,7 @@ SRE (Cloud Solutions) team, IT department.
 - Own the team's technical strategy and architecture decisions; mentor engineers.
 - Drove the design of the internal platform's Kubernetes controllers and aligned stakeholders across the company on how they should work.
 - Built the on-call process for the company-wide SRE support channel (infrastructure issues, platform questions, how-tos): a small rotation of developers resolves almost all requests without escalation — incidents within minutes, questions the same day.
-- Lead AI adoption in the team: AI agents that reduce on-call load, plus personal agents for colleagues (DevOps agent, legal agent), with a focus on agent reliability — getting agents to do real work well with minimal errors.
-- Running an experiment on turning unused Apple Silicon (M2/M3) laptops into a distributed LLM inference cluster (exo, vLLM) to find which models are viable for internal use.
+- Lead AI adoption in the team: AI agents that reduce on-call load, plus personal agents for colleagues (DevOps agent, legal agent), with a focus on agent reliability — getting agents to do real work well with minimal errors. Also explore self-hosted LLM inference for internal use.
 
 **Senior Software Development Engineer** · Jun 2022 – present
 
@@ -44,7 +43,7 @@ SRE (Cloud Solutions) team, IT department.
 - Develop and maintain the company-wide HSM-backed code signing service (Windows, macOS incl. notarization, Linux, JAR and more) — a mandatory step of every JetBrains software release. Turned a working but fragile setup into a stable, scaled service.
 - Built AI agents that assist the on-call engineer and automate ticket handling, a harness for managing agents, and self-service LLM evals on Kubernetes.
 
-### Megagroup.ru — Saint Petersburg, Russia
+### Megagroup — Saint Petersburg, Russia
 
 Company behind a no-code website builder and CMS (SaaS).
 
@@ -73,8 +72,8 @@ Full-stack development of an internal CRM/ERP system (Internet LLC); freelance w
 - **Go — main language since 2018.** Kubernetes controllers, a custom CRI and container runtime, platform services, high-load microservices with many concurrent connections, high RPS and large input streams, libraries.
 - **PHP** — 18 years, including writing PHP extensions in C; know its internals inside out.
 - **C** (C99) — 10 years: libraries, PHP and Lua extensions, C via FFI.
-- **Lua** (LuaJIT, 5.1) — 14 years: Nginx/OpenResty and Redis, caching CDN, auxiliary services.
-- **JavaScript** — 18 years.
+- **Lua** (LuaJIT, 5.1) — 6 years: Nginx/OpenResty and Redis, caching CDN, auxiliary services.
+- **JavaScript** (ES6) — 18 years.
 - **Bash/shell** — fluent scripting.
 
 ## Technologies
