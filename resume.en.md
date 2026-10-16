@@ -1,8 +1,8 @@
 # Ivan Shalganov
 
-**Technical Lead & Senior Software Engineer · Cloud Platform & SRE · Go, Kubernetes**
+**Technical Lead & Senior Software Engineer | Cloud Platform & SRE | Go, Kubernetes**
 
-Amsterdam, Netherlands · <a.cobest@gmail.com> · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick)
+Amsterdam, Netherlands | <a.cobest@gmail.com> | [Telegram](https://t.me/bezumen) | [GitHub](https://github.com/bzick) | [LinkedIn](www.linkedin.com/in/ivan-shalganov-283397213)
 
 ## Summary
 
