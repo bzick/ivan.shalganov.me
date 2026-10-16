@@ -53,7 +53,7 @@ Company behind a no-code website builder and CMS (SaaS).
 ## Programming languages
 
 - **Go — main language since 2018:** Kubernetes controllers, CRI and container runtime, platform services, high-load services with many concurrent connections and large input streams.
-- **C** (C99), **Lua** (LuaJIT / OpenResty), **PHP** (incl. C extensions), **JavaScript**, **Bash**.
+- **C** (C99), **Lua** (LuaJIT / OpenResty / LuaFFI), **Python**, **PHP** (incl. C extensions), **JavaScript** (incl. TypeScript).
 
 ## Technologies
 
@@ -66,6 +66,7 @@ Company behind a no-code website builder and CMS (SaaS).
 
 - [Tokenizer](https://github.com/bzick/tokenizer) — Go tokenizer for parsing unbounded data streams.
 - [PHP-ION](https://github.com/php-ion/php-ion) — asynchronous runtime extension for PHP, written in C.
+- [C WebSocket parser](https://github.com/php-ion/websocket-parser) - Streaming websocket frame parser and frame builder for c
 - [Fenom](https://github.com/fenom-template/fenom) — template engine for PHP.
 - [Aspect](https://unifire-app.github.io/aspect/) — Lua/OpenResty projects.
 
