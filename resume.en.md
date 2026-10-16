@@ -2,7 +2,7 @@
 
 **Technical Lead & Senior Software Engineer · Cloud Platform & SRE · Go, Kubernetes**
 
-Amsterdam, Netherlands · <a.cobest@gmail.com> · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick) · [LinkedIn](www.linkedin.com/in/ivan-shalganov-283397213)
+Amsterdam, Netherlands · <a.cobest@gmail.com> · [Telegram](https://t.me/bezumen) · [GitHub](https://github.com/bzick) · [LinkedIn](https://www.linkedin.com/in/ivan-shalganov-283397213)
 
 ## Summary
 
@@ -15,7 +15,6 @@ I work with AI on a zero-trust basis: I set up and steer agents to reach goals s
 - SRE and operations: incident response and root-cause analysis, on-call process design, reliability of business-critical services; monitoring and alerting
 - Distributed backend systems: high-load services, horizontal scaling, streaming and large-volume data, service interaction design
 - Platform engineering: self-service internal cloud on Kubernetes, custom controllers, custom CRI/runtime, multi-cloud (AWS, GCP, on-prem)
-- AI for operations: agents for on-call triage and troubleshooting, agent harness, LLM evals; zero-trust review of everything AI produces before it reaches production
 - Technical leadership: architecture decisions, design reviews, mentoring
 - AI engineering and control: agents for on-call triage and real operational work, agent harness, evals to catch regressions; human-in-the-loop, guardrails and least-privilege access for agents; governing the flow of AI-generated code into production
 
@@ -25,16 +24,20 @@ I work with AI on a zero-trust basis: I set up and steer agents to reach goals s
 
 SRE (Cloud Solutions) team, IT department.
 
-**Senior Software Development Engineer** · Jun 2022 – present (Technical Lead since Feb 2026)
+**Technical Lead** · Feb 2026 – present (combined with Senior SDE)
+
+- Own the team's technical strategy and architecture decisions; run design reviews and mentor engineers.
+- Drove the design of the internal platform's Kubernetes controllers and aligned stakeholders across the company on how they should work.
+- Built the on-call process for the company-wide SRE support channel (infrastructure issues, platform questions, how-tos): a small rotation of developers resolves almost all requests without escalation — incidents within minutes, questions the same day.
+- Lead AI adoption in the team: agents that reduce on-call load and personal agents for colleagues (DevOps agent, legal agent), with a focus on agent reliability — real work with minimal errors. Also explore self-hosted LLM inference for internal use.
+
+**Senior Software Development Engineer** · Jun 2022 – present
 
 - Design and build a self-service internal cloud platform on Kubernetes, used by every team in the company across a multi-cloud fleet (GKE, EKS, on-prem). Engineers without Kubernetes knowledge ship to production on their own.
-- Built AI agents that assist the on-call engineer and automate ticket handling, plus the harness that manages the agents and self-service LLM evals on Kubernetes.
-- Designed the on-call process for the company-wide SRE support channel: a small rotation of developers resolves almost all requests without escalation — incidents within minutes, questions the same day.
 - Designed and developed custom Kubernetes controllers for the platform; infrastructure as code and supporting services.
 - Built a custom CRI and container runtime to run Kubernetes pods natively on macOS across a large Mac mini fleet.
 - Develop and maintain the company-wide HSM-backed code signing service (Windows, macOS incl. notarization, Linux, JAR and more) — a mandatory step of every JetBrains release. Turned a fragile setup into a stable, scaled service.
-- As Technical Lead: own architecture decisions, run design reviews, mentor engineers.
-- Lead AI adoption in the team: agents that reduce on-call load and personal agents for colleagues (DevOps agent, legal agent), with a focus on agent reliability — real work with minimal errors. Also explore self-hosted LLM inference for internal use.
+- Built AI agents that assist the on-call engineer and automate ticket handling, plus the harness that manages the agents and self-service LLM evals on Kubernetes.
 
 ### Megagroup — Saint Petersburg, Russia
 
@@ -54,6 +57,10 @@ Company behind a no-code website builder and CMS (SaaS).
 - Built services for streaming data generation, file processing, SSL/TLS certificate management, proxying, audit and backups.
 - Built a caching CDN layer on Nginx/OpenResty with native extensions for performance-critical paths.
 
+### Earlier experience · 2004 – 2009
+
+Full-stack development of an internal CRM/ERP system (Internet LLC); freelance web development and my own commercial web services.
+
 ## Programming languages
 
 - **Go — main language since 2018:** Kubernetes controllers, CRI and container runtime, platform services, high-load services with many concurrent connections and large input streams.
@@ -70,9 +77,9 @@ Company behind a no-code website builder and CMS (SaaS).
 
 - [Tokenizer](https://github.com/bzick/tokenizer) — Go tokenizer for parsing unbounded data streams.
 - [PHP-ION](https://github.com/php-ion/php-ion) — asynchronous runtime extension for PHP, written in C.
-- [C WebSocket parser](https://github.com/php-ion/websocket-parser) - Streaming websocket frame parser and frame builder for c
+- [C WebSocket parser](https://github.com/php-ion/websocket-parser) — streaming WebSocket frame parser and frame builder in C.
 - [Fenom](https://github.com/fenom-template/fenom) — template engine for PHP.
-- [Aspect](https://unifire-app.github.io/aspect/) — Lua/OpenResty projects.
+- [Aspect](https://unifire-app.github.io/aspect/) — Lua/OpenResty project.
 
 ## Education
 
