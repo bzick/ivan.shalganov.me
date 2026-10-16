@@ -8,13 +8,16 @@ Amsterdam, Netherlands · <a.cobest@gmail.com> · [Telegram](https://t.me/bezume
 
 Backend and platform engineer with 20+ years of experience building and operating production systems — cloud platforms, high-load SaaS and distributed services. Go is my main language. At JetBrains I build a multi-cloud Kubernetes platform used by every team in the company and designed the SRE on-call process, so I rely on observability daily to troubleshoot production. Earlier, at Megagroup, I built monitoring, alerting and analytics services for a high-load SaaS. Recently focused on AI agents that help the on-call engineer — built with strict human-in-the-loop control and verification.
 
+I work with AI on a zero-trust basis: I set up and steer agents to reach goals safely, review everything they produce, and no AI-written code reaches production until I understand it and it is proven correct and secure.
+
 ## Core competencies
 
-- **SRE and operations:** incident response and root-cause analysis, on-call process design, reliability of business-critical services; monitoring and alerting
-- **Distributed backend systems:** high-load services, horizontal scaling, streaming and large-volume data, service interaction design
-- **Platform engineering:** self-service internal cloud on Kubernetes, custom controllers, custom CRI/runtime, multi-cloud (AWS, GCP, on-prem)
-- **AI for operations:** agents for on-call triage and troubleshooting, agent harness, LLM evals; zero-trust review of everything AI produces before it reaches production
-- **Technical leadership:** architecture decisions, design reviews, mentoring
+- SRE and operations: incident response and root-cause analysis, on-call process design, reliability of business-critical services; monitoring and alerting
+- Distributed backend systems: high-load services, horizontal scaling, streaming and large-volume data, service interaction design
+- Platform engineering: self-service internal cloud on Kubernetes, custom controllers, custom CRI/runtime, multi-cloud (AWS, GCP, on-prem)
+- AI for operations: agents for on-call triage and troubleshooting, agent harness, LLM evals; zero-trust review of everything AI produces before it reaches production
+- Technical leadership: architecture decisions, design reviews, mentoring
+- AI engineering and control: agents for on-call triage and real operational work, agent harness, evals to catch regressions; human-in-the-loop, guardrails and least-privilege access for agents; governing the flow of AI-generated code into production
 
 ## Experience
 
@@ -31,6 +34,7 @@ SRE (Cloud Solutions) team, IT department.
 - Built a custom CRI and container runtime to run Kubernetes pods natively on macOS across a large Mac mini fleet.
 - Develop and maintain the company-wide HSM-backed code signing service (Windows, macOS incl. notarization, Linux, JAR and more) — a mandatory step of every JetBrains release. Turned a fragile setup into a stable, scaled service.
 - As Technical Lead: own architecture decisions, run design reviews, mentor engineers.
+- Lead AI adoption in the team: agents that reduce on-call load and personal agents for colleagues (DevOps agent, legal agent), with a focus on agent reliability — real work with minimal errors. Also explore self-hosted LLM inference for internal use.
 
 ### Megagroup — Saint Petersburg, Russia
 
